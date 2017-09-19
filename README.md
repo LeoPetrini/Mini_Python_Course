@@ -8,3 +8,4 @@ In this brief repo you will learn:
 - How to make some basic yet crucial plots
 - What is Object-Oriented Programming
 - How to take advantage of Sklearn for your ML routine
+- How to create a repo on git :)

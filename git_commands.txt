@@ -1,0 +1,18 @@
+# Some useful git commands you might need (or use VSCode ;) )
+
+cd existing_folder
+git init
+git remote add origin 'https of your git repo'
+git add .
+git commit -m 'your message'
+git push -u origin master
+
+# Push:
+git status
+git add .
+git commit -m "your message"
+
+git push origin master
+
+# Behind a proxy? No problem!
+git config --global http.proxy http:/username:password@proxy:yourport
