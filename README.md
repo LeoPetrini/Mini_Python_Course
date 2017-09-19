@@ -7,4 +7,4 @@ In this brief repo you will learn:
 - Python Data Structures
 - How to make some basic yet crucial plots
 - What is Object-Oriented Programming
-- HOw to take advantage of Sklearn for your ML routine
+- How to take advantage of Sklearn for your ML routine
